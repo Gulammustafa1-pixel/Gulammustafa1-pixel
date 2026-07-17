@@ -25,6 +25,10 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 
 <a href="mailto:gulammustafa544128@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="https://freetool.world">
+<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
   ---
   
