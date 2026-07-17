@@ -127,3 +127,64 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulammustafa1-pixel&theme=tokyo-night"/>
 </p>
+---
+
+# 🚀 Featured Projects
+
+## 🌐 FreeTool.World
+AI-powered platform offering free AI tools with a modern React interface.
+
+**🔗 Live Demo:** https://freetool.world
+
+**💻 Technologies:** React, JavaScript, HTML, CSS
+
+---
+
+## ✍️ AI Air Writing
+
+Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR support.
+
+**💻 Technologies:** Python, OpenCV, MediaPipe
+
+---
+
+## 📱 Mobile & Tablet Price Prediction
+
+Machine Learning application that predicts mobile and tablet prices using specifications such as RAM, processor, battery, storage, and display.
+
+**💻 Technologies:** Python, Scikit-learn, Pandas
+
+---
+
+## 📊 Titanic EDA
+
+Performed Exploratory Data Analysis on the Titanic dataset with visualizations and preprocessing.
+
+**💻 Technologies:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
+## 🚗 Solar Powered Path Planning Robot
+
+Autonomous robot capable of obstacle avoidance and intelligent path planning.
+
+---
+
+## 🎈 Balloon Bursting Robot
+
+Computer Vision-based robotics project developed for a robotics competition.
+---
+
+# 🌱 Currently Working On
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🐍 Python
+- 🌐 AI Web Applications
+- 🚀 Open Source Projects
+  ---
+
+# ⚡ Fun Fact
+
+💡 I enjoy turning AI ideas into real-world applications and continuously learning new technologies.
