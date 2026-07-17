@@ -27,7 +27,7 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 
   ---
-
+  
 # 💻 Tech Stack
 
 <p align="center">
@@ -87,6 +87,16 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <a href="https://github.com/Gulammustafa1-pixel">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulammustafa1-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulammustafa1-pixel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <a href="https://freetool.world">
 <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
