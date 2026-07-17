@@ -127,6 +127,7 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulammustafa1-pixel&theme=tokyo-night"/>
 </p>
+
 ---
 
 # 🚀 Featured Projects
@@ -173,6 +174,7 @@ Autonomous robot capable of obstacle avoidance and intelligent path planning.
 ## 🎈 Balloon Bursting Robot
 
 Computer Vision-based robotics project developed for a robotics competition.
+
 ---
 
 # 🌱 Currently Working On
@@ -183,6 +185,7 @@ Computer Vision-based robotics project developed for a robotics competition.
 - 🐍 Python
 - 🌐 AI Web Applications
 - 🚀 Open Source Projects
+  
   ---
 
 # ⚡ Fun Fact
