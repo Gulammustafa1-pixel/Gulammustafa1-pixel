@@ -25,6 +25,63 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 
 <a href="mailto:gulammustafa544128@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+
+  ---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+
+</p>
+
+---
+
+## 🧠 AI / Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- MediaPipe
+- Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## 🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Responsive Design
+
+---
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 </a>
 
 <a href="https://github.com/Gulammustafa1-pixel">
