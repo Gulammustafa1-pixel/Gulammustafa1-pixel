@@ -13,3 +13,6 @@
 📍 Islamabad, Pakistan  
 
 Building real-world AI applications with Python, Machine Learning, Computer Vision, and Web Development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Python+Developer;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+</p>
