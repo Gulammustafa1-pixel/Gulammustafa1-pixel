@@ -16,3 +16,22 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Python+Developer;Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gulam-mustafa-276551360/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:gulammustafa544128@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/Gulammustafa1-pixel">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://freetool.world">
+<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
