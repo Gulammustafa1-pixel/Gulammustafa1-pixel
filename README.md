@@ -102,3 +102,24 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Gulammustafa1-pixel&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gulammustafa1-pixel&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulammustafa1-pixel&theme=tokyo-night"/>
+</p>
