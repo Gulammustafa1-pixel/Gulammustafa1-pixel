@@ -154,7 +154,9 @@ Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR
 Machine Learning application that predicts mobile and tablet prices using specifications such as RAM, processor, battery, storage, and display.
 
 **💻 Technologies:** Python, Scikit-learn, Pandas
+
 ---
+
 ## 📰 Fake News Detection Using Machine Learning
 - NLP-based fake news classifier
 - Python, Scikit-learn, TF-IDF
