@@ -136,7 +136,7 @@ Machine Learning application that predicts mobile and tablet prices based on spe
 **💻 Technologies:** Python, Scikit-learn, Pandas, NumPy, Gradio
 
 **🚀 Live Demo:**  
-[![Open Demo](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)](https://3286bdae495a8e421c.gradio.live/)
+[![Open Demo](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)]
 
 ---
 
