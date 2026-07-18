@@ -111,10 +111,10 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 # 🚀 Featured Projects
 
 ## 🌐 FreeTool.World
+
 AI-powered platform offering free AI tools with a modern React interface.
-
-**🔗 Live Demo:** https://freetool.world
-
+**🚀 Live Demo:**  
+[![Open Website](https://img.shields.io/badge/🚀%20Visit%20Website-Click%20Here-blue?style=for-the-badge)](https://freetool.world)
 **💻 Technologies:** React, JavaScript, HTML, CSS
 
 ---
@@ -122,7 +122,6 @@ AI-powered platform offering free AI tools with a modern React interface.
 ## ✍️ AI Air Writing
 
 Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR support.
-
 **💻 Technologies:** Python, OpenCV, MediaPipe
 
 ---
@@ -130,19 +129,19 @@ Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR
 ## 📱 Mobile & Tablet Price Prediction
 
 Machine Learning application that predicts mobile and tablet prices based on specifications such as RAM, processor, battery capacity, storage, and display features.
-
 **💻 Technologies:** Python, Scikit-learn, Pandas, NumPy, Gradio
-
 **🚀 Live Demo:**  
 [![Open Demo](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)](https://3286bdae495a8e421c.gradio.live/)
 
 ---
 
 ## 📰 Fake News Detection Using Machine Learning
-- NLP-based fake news classifier
-- Python, Scikit-learn, TF-IDF
-- Accuracy: 99.31%
-🔗 https://github.com/Gulammustafa1-pixel/decode-labs-project-2
+NLP-based Machine Learning application that classifies news articles as real or fake using text processing and classification techniques.
+**💻 Technologies:** Python, Scikit-learn, TF-IDF, NLP
+**📊 Accuracy:** 99.31%
+**🚀 GitHub Repository:**  
+[![View Project](https://img.shields.io/badge/🚀%20View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/Gulammustafa1-pixel/decode-labs-project-2)
+
 ---
 
 ## 📊 Titanic EDA
