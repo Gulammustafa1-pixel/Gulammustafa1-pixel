@@ -136,7 +136,7 @@ Machine Learning application that predicts mobile and tablet prices based on spe
 **💻 Technologies:** Python, Scikit-learn, Pandas, NumPy, Gradio
 
 **🚀 Live Demo:**  
-[![Open Demo](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)]
+[![View Project](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/Gulammustafa1-pixel/smartphone-tablet-price-predictor)
 
 ---
 
