@@ -155,6 +155,12 @@ Machine Learning application that predicts mobile and tablet prices using specif
 
 **💻 Technologies:** Python, Scikit-learn, Pandas
 
+### 📰 Fake News Detection Using Machine Learning
+- NLP-based fake news classifier
+- Python, Scikit-learn, TF-IDF
+- Accuracy: 99.31%
+
+🔗 https://github.com/Gulammustafa1-pixel/decode-labs-project-2
 ---
 
 ## 📊 Titanic EDA
