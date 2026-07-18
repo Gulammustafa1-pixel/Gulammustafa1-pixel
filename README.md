@@ -91,34 +91,12 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 <a href="https://github.com/Gulammustafa1-pixel">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulammustafa1-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulammustafa1-pixel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<a href="https://freetool.world">
-<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Gulammustafa1-pixel&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gulammustafa1-pixel&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 ---
 
@@ -151,9 +129,12 @@ Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR
 
 ## 📱 Mobile & Tablet Price Prediction
 
-Machine Learning application that predicts mobile and tablet prices using specifications such as RAM, processor, battery, storage, and display.
+Machine Learning application that predicts mobile and tablet prices based on specifications such as RAM, processor, battery capacity, storage, and display features.
 
-**💻 Technologies:** Python, Scikit-learn, Pandas
+**💻 Technologies:** Python, Scikit-learn, Pandas, NumPy, Gradio
+
+**🚀 Live Demo:**  
+[![Open Demo](https://img.shields.io/badge/🚀%20Try%20Demo-Click%20Here-blue?style=for-the-badge)](https://3286bdae495a8e421c.gradio.live/)
 
 ---
 
