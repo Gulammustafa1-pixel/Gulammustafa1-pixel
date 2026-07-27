@@ -159,13 +159,6 @@ NLP-based Machine Learning application that classifies news articles as real or 
 **🚀 GitHub Repository:**  
 [![View Project](https://img.shields.io/badge/🚀%20View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/Gulammustafa1-pixel/decode-labs-project-2)
 
----
-
-## 📊 Titanic EDA
-
-Performed Exploratory Data Analysis on the Titanic dataset with visualizations and preprocessing.
-
-**💻 Technologies:** Python, Pandas, Matplotlib, Seaborn
 
 ---
 
