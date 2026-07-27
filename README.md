@@ -120,7 +120,16 @@ AI-powered platform offering free AI tools with a modern React interface.
 **💻 Technologies:** React, JavaScript, HTML, CSS
 
 ---
+## 🤖 Jarvis Desktop AI Assistant
 
+AI-powered desktop voice assistant that activates with the wake word **"Hey Jarvis"** to perform hands-free desktop automation, execute voice commands, and provide intelligent AI-powered responses while running in the background.
+
+**💻 Technologies:** Python, Ollama, OpenWakeWord, SpeechRecognition, PyAudio, pyttsx3, ONNX Runtime, NumPy
+
+**🚀 Project Repository:**  
+[![View Project](https://img.shields.io/badge/🚀%20View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/Gulammustafa1-pixel/jarvis-desktop-ai)
+
+---
 ## ✍️ AI Air Writing
 
 Real-time hand tracking and air writing system using OpenCV & MediaPipe with OCR support.
