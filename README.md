@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Gulam Mustafa
 
-### Artificial Intelligence Engineer
+### AI & Machine Learning Engineer
 
 🚀 AI Intern @ Decode Labs  
 🤖 Machine Learning Intern @ NeuroFive Solutions  
@@ -112,7 +112,7 @@ Building real-world AI applications with Python, Machine Learning, Computer Visi
 
 ## 🌐 FreeTool.World
 
-AI-powered platform offering free AI tools with a modern React interface.
+A modern AI-powered platform offering free productivity tools, AI utilities, and interactive web applications built with React.
 
 **🚀 Live Demo:**  
 [![Open Website](https://img.shields.io/badge/🚀%20Visit%20Website-Click%20Here-blue?style=for-the-badge)](https://freetool.world)
@@ -122,7 +122,7 @@ AI-powered platform offering free AI tools with a modern React interface.
 ---
 ## 🤖 Jarvis Desktop AI Assistant
 
-AI-powered desktop voice assistant that activates with the wake word **"Hey Jarvis"** to perform hands-free desktop automation, execute voice commands, and provide intelligent AI-powered responses while running in the background.
+An AI-powered desktop voice assistant that continuously runs in the background and responds to the wake word **"Hey Jarvis"**. It performs desktop automation, executes voice commands, opens applications, searches the web, and generates intelligent responses using Ollama.
 
 **💻 Technologies:** Python, Ollama, OpenWakeWord, SpeechRecognition, PyAudio, pyttsx3, ONNX Runtime, NumPy
 
@@ -151,7 +151,7 @@ Machine Learning application that predicts mobile and tablet prices based on spe
 ---
 
 ## 📰 Fake News Detection Using Machine Learning
-NLP-based Machine Learning application that classifies news articles as real or fake using text processing and classification techniques.
+NLP-based Machine Learning application that classifies news articles as real or fake using text processing and classification techniques.Built an NLP-based machine learning model capable of detecting fake news articles with 99.31% accuracy using TF-IDF vectorization and Scikit-learn.
 
 **💻 Technologies:** Python, Scikit-learn, TF-IDF, NLP
 **📊 Accuracy:** 99.31%
